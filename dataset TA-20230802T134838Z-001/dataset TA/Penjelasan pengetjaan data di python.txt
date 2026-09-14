@@ -1,0 +1,18 @@
+Berikut merupakan penjelasan pengolahan data.
+
+
+1. dalam folder tersebut ada 7 dataset mengenai penyebaran covid-19 berdasarkan kualitas udara pada beberapa puskesmas di kecamatan yang kasus konfirmasi nya tinggi (dapat dilihat pada file dataset puskesmas).
+2. data diolah menggunakan python dengan melakukan preprocessing data pada masing2 dataset kemudian masuk di tahap implementasi dengan menggunakan K-Means Clustering, hingga dilakukan proses visualisasi pada masing2 dataset
+3. untuk dataset dengan judul dataset puskesmas sudah saya lakukan data preprocessing baru sampai tahap data cleaning, untuk data transformation, data selection, dll belum dilakukan.
+4. untuk tahap implementasi yaitu clustering dengan K-Means, datset puskesmas di cluster berdasarkan kasus covid tertinggi (bisa dilihat dari variabel status covid) dan untuk cluster nya bisa dari indeks kualitas udara
+5. diharapkan ada korelasi antara kasus konfirmasi pada persebaran covid-19 dan juga indeks kualitas udara
+6. setelah semua dataset selesai diolah hingga masuk ke bagian Clustering, dilakukan proses visualisasi yang sesuai pada masing2 dataset.
+7. untuk file coding python yang sudah saya lakukan di judul file: Copy_of_coding_TA_covid
+8. untuk pengerjaan nya langsung di file pada tahap no.5
+
+CATATAN:
+- Untuk hari senin 31 Juli / selasa 1 Agustus pagi (sebelum 10) harap sudah ada progres pengerjaan python karena untuk bimbingan pukul 10 hari selasa
+- untuk bagian pengolahan data bagian clustering diharapkan ada korelasi antara kasus konfirmasi pada persebaran covid-19 dan juga indeks kualitas udara
+
+DEADLINE: SABTU, 5 AGUSTUS 2023
+
